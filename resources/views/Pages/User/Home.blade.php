@@ -28,7 +28,7 @@
   </nav>
   <section class="bg-cover bg-center mt-8px h-[500px] flex items-center justify-center text-center" style="background-image: url('https://images.unsplash.com/photo-1472214103451-9374bd1c798e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');">
     <div class="bg-black bg-opacity-50 p-8 rounded-lg">
-      <h2 class="text-4xl md:text-5xl font-bold text-white mb-4">Welcome to HotelEase</h2>
+      <h2 class="text-4xl md:text-5xl font-bold text-white mb-4">Welcome to Abinash</h2>
       <p class="text-gray-200 mb-6">Experience luxury, comfort, and seamless booking at your fingertips.</p>
       <a href="#" class="px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-800 transition">Book a Room</a>
     </div>
